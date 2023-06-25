@@ -9,6 +9,6 @@ n-gram auto-completion |
 :-------------------------:
 ![](https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/n-gram_auto-completion_example.png?raw=true)
 
-Bayesian classifier of positive and negative restaurant reviews | 
+Bayesian classifier of positive and negative restaurant reviews | ert
 :-------------------------:|:-------------------------:
 ![](https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/bayesian_classifier_example_1.png?raw=true) | ![](https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/bayesian_classifier_example_2.png?raw=true)
