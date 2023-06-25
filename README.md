@@ -7,7 +7,7 @@ Dialogue with an information retrieval chatbot |
 
 n-gram auto-completion |
 :-------------------------:
-![][(https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/n-gram_auto-completion_example.png)https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/n-gram_auto-completion_example.png?raw=true)
+![](https://github.com/erik-norlin/TME286-Intelligent-Agents/blob/main/Example_images/n-gram_auto-completion_example.png?raw=true)
 
 Bayesian classifier of positive and negative restaurant reviews 
 :-------------------------:|:-------------------------:
