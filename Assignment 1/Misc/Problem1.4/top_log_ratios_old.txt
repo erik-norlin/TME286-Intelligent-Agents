@@ -1,0 +1,72 @@
+=========================================
+Number of tokens:
+=========================================
+Negative set:  60424
+Positive set: 63310
+Shared:      37157
+=========================================
+High-r tokens: 
+=========================================
+       2	paulie
+    1,68	iturbi
+    1,64	gundam
+    1,63	philo
+    1,61	feinstone
+     1,6	giovanna
+     1,6	lindy
+    1,57	rosenstrasse
+    1,56	anchors
+    1,56	clutter
+    1,52	fassbinder
+    1,52	luzhin
+    1,51	callahan
+    1,51	victoria's
+    1,49	aiello
+    1,48	stevenson
+    1,47	excellently
+    1,46	aviv
+    1,46	hickock
+    1,46	mathieu
+    1,45	conroy
+    1,45	dench
+    1,45	korda
+    1,45	partition
+    1,43	ashraf
+    1,43	emil
+    1,43	jabba
+    1,42	hayworth
+    1,41	askey
+    1,41	felix
+=========================================
+Small-r tokens: 
+=========================================
+   -3,27	point­
+   -2,11	boll
+      -2	uwe
+   -1,79	thunderbirds
+   -1,75	beowulf
+   -1,67	wayans
+   -1,66	ajay
+   -1,66	seagal
+   -1,62	dahmer
+   -1,58	awfulness
+   -1,57	steaming
+   -1,56	grendel
+   -1,53	segal
+   -1,52	deathstalker
+   -1,51	stinker
+   -1,48	interminable
+   -1,46	forwarding
+   -1,45	sabretooth
+   -1,43	gamera
+   -1,41	devgan
+   -1,41	dreck
+   -1,41	picker
+   -1,41	unwatchable
+    -1,4	razzie
+   -1,38	nada
+   -1,37	mst3k
+   -1,36	nostril
+   -1,34	aag
+   -1,34	appallingly
+   -1,34	demi

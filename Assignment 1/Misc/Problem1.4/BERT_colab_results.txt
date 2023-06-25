@@ -1,0 +1,43 @@
+small_bert/bert_en_uncased_L-4_H-128_A-2
+1563/1563 [==============================] - 331s 212ms/step - loss: 0.4341 - binary_accuracy: 0.8118
+Loss: 0.4341203272342682
+Accuracy: 0.8118000030517578
+
+Loss: 0.44606682658195496
+Precision: 0.868798553943634
+Loss: 0.5445055365562439
+Recall: 0.7063199877738953
+
+avg_len tokens of test set:
+rev_len = []
+j = 0
+for text_batch, label_batch in test_ds.take(int(25000/20)):
+  for i in range(np.size(text_batch)):
+    text_test = [text_batch.numpy()[i]]
+    text_preprocessed = bert_preprocess_model(text_test)
+    a = text_preprocessed["input_word_ids"]
+    b = a[a != 0]
+    c = len(b)
+    rev_len.append(c)
+    j = j + 1
+    if j % 100 == 0:
+      print(j)
+    #print(c)
+    #print(text_test)
+
+avg_len = sum(rev_len) / len(rev_len)
+print("avg_len: ", avg_len)
+
+
+
+
+3400: avg_len = 123.17941176470588
+6800: avg_len = 123.46735294117647
+10200: avg_len = 123.27235294117646
+13600: avg_len:  123.48735294117647
+17000 : avg_len:  123.64558823529411
+20400 : avg_len:  123.76088235294118
+23800 : avg_len:  123.62823529411764
+25000 : avg_len:  122.13344453711426
+
+tot_avg_len:  123.3218276

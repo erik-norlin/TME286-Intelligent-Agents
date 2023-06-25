@@ -1,0 +1,12 @@
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\bin\Debug\TutorialsApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\bin\Debug\TutorialsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\bin\Debug\TutorialsApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.csprojResolveAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.csproj.GenerateResource.Cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.Tutorial1Form.resources
+C:\Data\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\bin\Debug\TutorialsApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.exe
+C:\Data\Teaching\Intelligent agents, 2019\Tutorials\Src\TutorialsSolution\TutorialsApplication\obj\Debug\TutorialsApplication.pdb

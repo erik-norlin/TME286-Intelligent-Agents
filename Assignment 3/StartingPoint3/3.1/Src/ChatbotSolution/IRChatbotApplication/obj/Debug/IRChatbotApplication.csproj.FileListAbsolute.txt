@@ -1,0 +1,115 @@
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Chatbots\ChatbotSolution\IRChatbotApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\ObjectSerializerLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\bin\Debug\ObjectSerializerLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Chatbots (mine)\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\IRChatbotApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\ChatbotLibrary.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\Debug\IRChatbotApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\movieData\movie_conversations.tsv
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\Debug\movieData\movie_lines.tsv

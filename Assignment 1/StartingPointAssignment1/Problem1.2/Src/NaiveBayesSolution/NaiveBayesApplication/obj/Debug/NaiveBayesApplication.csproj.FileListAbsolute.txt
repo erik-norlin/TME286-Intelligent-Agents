@@ -1,0 +1,91 @@
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojResolveAssemblyReference.cache
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.Cache
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Users\Mattias\Desktop\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Introduction to Artificial Intelligence, 2021\Src\2.2\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Teaching\Intelligent agents, 2022\Src\Skeleton source\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\Src\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 1\SrcToStudents\Problem1.1\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csprojAssemblyReference.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Debug\NaiveBayesApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Debug\NaiveBayesApplication.pdb

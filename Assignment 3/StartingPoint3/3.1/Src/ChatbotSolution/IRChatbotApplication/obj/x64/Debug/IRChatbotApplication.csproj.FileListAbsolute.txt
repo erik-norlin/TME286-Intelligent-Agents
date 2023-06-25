@@ -1,0 +1,16 @@
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\IRChatbotApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\IRChatbotApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\IRChatbotApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\ChatbotLibrary.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.csproj.CopyComplete
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\obj\x64\Debug\IRChatbotApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\movieData\movie_conversations.tsv
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\ChatbotSolution\IRChatbotApplication\bin\x64\Debug\movieData\movie_lines.tsv

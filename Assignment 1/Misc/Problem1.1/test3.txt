@@ -1,0 +1,1930 @@
+=========================================
+Written 1-grams: 
+=========================================
+    8700 the
+    5458 in
+    4137 was
+    3438 is
+    2912 of
+    2709 a
+    2286 and
+    2197 he
+    2014 it
+    1894 to
+    1477 on
+    1234 by
+    1056 are
+     951 for
+     841 has
+     834 as
+     784 his
+     766 also
+     753 this
+     742 were
+     732 at
+     722 from
+     688 she
+     612 with
+     495 they
+     484 an
+     428 population
+     418 two
+     400 born
+     385 had
+     366 there
+     335 not
+     333 her
+     314 first
+     311 its
+     301 have
+     292 released
+     276 all
+     274 died
+     269 married
+     266 be
+     242 new
+     241 village
+     238 one
+     234 later
+     223 been
+     222 three
+     215 described
+     214 these
+     211 that
+     210 after
+     207 2010
+     206 i
+     204 may
+     201 their
+     199 school
+     192 no
+     192 year
+     191 played
+     186 into
+     182 became
+     181 located
+     180 won
+     173 however
+     169 university
+     163 american
+     162 known
+     160 both
+     156 film
+     155 only
+     150 august
+     149 several
+     148 about
+     148 then
+     147 other
+     146 found
+     146 july
+     146 time
+     145 can
+     143 received
+     141 january
+     141 services
+     140 children
+     140 up
+     138 some
+     137 name
+     135 began
+     135 many
+     135 used
+     133 september
+     131 or
+     130 college
+     129 species
+     128 1
+     128 june
+     126 april
+     126 him
+     125 made
+     125 november
+     125 opened
+     121 october
+     120 december
+     120 four
+     119 more
+     117 over
+     117 station
+     115 march
+     115 now
+     112 but
+     111 named
+     109 city
+     109 published
+     108 2017
+     108 years
+     106 during
+     105 building
+     104 2012
+     103 events
+     102 john
+     102 people
+     102 series
+     101 2019
+     101 until
+     100 started
+      99 2
+      97 2013
+      97 since
+      96 2011
+      96 took
+      95 second
+      94 each
+      94 moved
+      93 2020
+      93 family
+      92 produced
+      92 work
+      91 music
+      90 2018
+      90 county
+      89 2014
+      89 held
+      89 joined
+      89 national
+      88 called
+      88 out
+      88 son
+      87 did
+      87 most
+      87 very
+      86 2002
+      86 number
+      86 would
+      85 3
+      85 album
+      85 built
+      85 season
+      84 high
+      83 team
+      82 area
+      82 state
+      82 town
+      81 south
+      81 will
+      80 currently
+      80 february
+      79 completed
+      78 father
+      78 lost
+      78 place
+      77 district
+      77 five
+      77 house
+      77 left
+      76 2015
+      76 through
+      75 10
+      75 company
+      75 part
+      75 served
+      74 club
+      74 include
+      74 them
+      74 under
+      74 you
+      73 2009
+      73 2021
+      73 daughter
+      73 football
+      73 retired
+      73 than
+      73 well
+      71 around
+      71 day
+      71 de
+      70 again
+      70 long
+      70 north
+      69 2008
+      69 times
+      69 york
+      68 book
+      68 british
+      68 community
+      68 founded
+      67 14
+      67 2007
+      67 2016
+      67 decision
+      67 game
+      67 office
+      67 returned
+      66 15
+      66 home
+      65 graduated
+      65 group
+      65 often
+      65 war
+      64 12
+      64 life
+      63 based
+      63 english
+      63 established
+      63 following
+      63 inc
+      63 london
+      63 six
+      63 white
+      62 2006
+      62 between
+      62 church
+      62 included
+      62 international
+      61 11
+      61 30
+      61 4
+      61 co
+      61 election
+      61 germany
+      61 re
+      61 recorded
+      61 show
+      60 listed
+      60 park
+      59 26
+      59 career
+      59 general
+      59 service
+      58 another
+      58 available
+      58 public
+      58 wife
+      58 william
+      57 6
+      57 8
+      57 elected
+      57 reviews
+      57 signed
+      57 title
+      56 current
+      56 director
+      56 eventually
+      56 remained
+      55 20
+      55 7
+      55 army
+      55 final
+      55 major
+      55 never
+      55 still
+      55 total
+      55 works
+      54 16
+      54 2001
+      54 2005
+      54 23
+      54 5
+      54 early
+      54 games
+      54 like
+      54 same
+      54 system
+      54 we
+      53 9
+      53 contains
+      53 d.
+      53 includes
+      53 local
+      53 off
+      53 police
+      53 president
+      53 river
+      53 seven
+      53 west
+      52 before
+      52 continued
+      52 player
+      51 19
+      51 closed
+      51 fight
+      51 old
+=========================================
+Spoken 1-grams: 
+=========================================
+   11993 the
+    8116 to
+    7592 a
+    7257 and
+    6648 you
+    6202 is
+    6020 i
+    5111 of
+    4812 that
+    4809 it
+    4729 in
+    4233 this
+    4195 for
+    3388 so
+    3191 was
+    2990 it's
+    2739 from
+    2521 we
+    2512 he
+    2464 are
+    2411 with
+    2408 they
+    2380 have
+    2311 what
+    2252 on
+    2063 but
+    2060 us
+    2033 very
+    1922 about
+    1909 that's
+    1857 do
+    1813 not
+    1797 much
+    1777 be
+    1733 well
+    1612 there
+    1601 know
+    1520 just
+    1493 npr
+    1388 think
+    1357 news
+    1354 thanks
+    1349 all
+    1341 like
+    1267 now
+    1189 at
+    1157 i'm
+    1075 going
+    1042 here
+    1040 me
+    1035 don't
+    1034 how
+    1020 one
+    1002 your
+     980 my
+     958 an
+     952 call
+     951 people
+     935 she
+     926 has
+     909 can
+     886 were
+     881 been
+     871 really
+     866 get
+     862 no
+     812 did
+     811 right
+     797 out
+     787 them
+     785 up
+     770 his
+     758 he's
+     755 as
+     755 let's
+     751 more
+     746 some
+     742 edition
+     722 we're
+     708 mean
+     704 go
+     698 had
+     669 want
+     666 there's
+     663 our
+     651 good
+     637 thank
+     631 would
+     615 time
+     614 got
+     613 today
+     610 back
+     608 will
+     607 they're
+     568 talk
+     566 say
+     560 her
+     552 these
+     538 said
+     537 day
+     524 you're
+     523 by
+     522 also
+     517 says
+     504 then
+     502 him
+     501 lot
+     494 things
+     489 morning
+     488 being
+     484 yeah
+     481 their
+     473 new
+     471 see
+     468 why
+     459 didn't
+     445 those
+     435 does
+     431 still
+     430 first
+     428 npr's
+     415 or
+     408 two
+     403 where
+     389 actually
+     389 another
+     380 could
+     380 take
+     372 way
+     369 weekend
+     368 something
+     364 other
+     363 if
+     354 kind
+     350 talking
+     344 too
+     343 what's
+     338 again
+     338 question
+     334 line
+     328 years
+     320 little
+     320 make
+     316 great
+     316 tell
+     314 who
+     313 many
+     312 big
+     312 thing
+     311 let
+     307 year
+     304 never
+     303 into
+     303 oh
+     303 she's
+     296 different
+     295 come
+     295 over
+     293 always
+     293 when
+     291 yes
+     288 joining
+     288 we'll
+     287 work
+     286 down
+     285 doing
+     282 president
+     282 welcome
+     280 any
+     280 hear
+     276 need
+     272 here's
+     272 last
+     269 even
+     268 called
+     258 should
+     256 can't
+     256 we've
+     245 nice
+     242 after
+     242 reports
+     237 than
+     236 nation
+     231 doesn't
+     230 i've
+     230 look
+     229 house
+     226 because
+     222 story
+     219 next
+     217 number
+     216 made
+     216 pretty
+     215 life
+     213 course
+     213 washington
+     212 both
+     210 most
+     203 joins
+     201 money
+     201 only
+     201 start
+     200 part
+     199 coming
+     197 long
+     195 john
+     195 off
+     195 three
+     194 old
+     192 point
+     191 around
+     190 show
+     189 feel
+     185 science
+     184 give
+     183 happened
+     183 hard
+     183 week
+     183 white
+     182 wanted
+     180 wasn't
+     179 anything
+     179 thought
+     178 every
+     177 problem
+     174 ask
+     174 went
+     171 having
+     170 caller
+     170 put
+     167 before
+     166 bit
+     164 change
+     164 city
+     164 isn't
+     164 maybe
+     162 case
+     161 through
+     160 taking
+     159 find
+     158 david
+     158 happen
+     158 same
+     157 better
+     154 answer
+     154 program
+     154 quite
+     151 american
+     151 might
+     150 may
+     150 play
+     150 political
+     150 real
+     149 800
+     149 considered
+     148 sort
+     147 calling
+     147 though
+     146 important
+     146 love
+     145 came
+     145 certainly
+     145 home
+     145 school
+     144 989
+     144 friday
+     144 own
+     143 moment
+     143 nothing
+     142 state
+     142 york
+     142 you've
+     141 done
+     141 far
+     141 its
+     141 name
+     141 public
+     139 believe
+     139 saying
+     139 they've
+     137 away
+     137 government
+     136 break
+     136 dr.
+     136 world
+     135 8255
+     135 family
+     135 getting
+     135 issue
+     134 correspondent
+     134 exactly
+     134 ok
+     133 else
+     132 already
+     132 left
+     129 started
+     129 station
+     128 bad
+     128 member
+     128 percent
+=========================================
+Written 2-grams: 
+=========================================
+     677 it was
+     598 it is
+     580 is a
+     563 he was
+     553 in the
+     436 of the
+     349 was born
+     283 has a
+     263 born in
+     258 is the
+     252 to the
+     231 as of
+     224 the population
+     218 was released
+     207 was a
+     207 population was
+     197 the village
+     185 on the
+     180 population of
+     180 was described
+     176 a population
+     176 from the
+     173 described by
+     166 released on
+     164 he is
+     157 village has
+     151 is located
+     138 there are
+     133 was the
+     131 she was
+     129 as a
+     121 of 2010
+     120 is an
+     118 at the
+     109 for the
+     108 died in
+     107 services to
+     106 is also
+     105 by the
+     105 the film
+     104 for services
+     103 it has
+      99 the first
+      98 he also
+      95 found in
+      92 is found
+      91 the year
+      91 won the
+      84 was also
+      82 has been
+      81 moved to
+      76 this is
+      75 she is
+      74 known as
+      72 is known
+      72 with the
+      72 he played
+      69 they are
+      69 he has
+      67 to be
+      67 in a
+      66 he died
+      66 located at
+      66 there is
+      65 did not
+      65 located in
+      64 new york
+      60 became a
+      60 they were
+      59 on august
+      59 the album
+      59 have been
+      59 opened on
+      59 the station
+      58 there were
+      58 the series
+      57 is now
+      57 is married
+      55 part of
+      54 can be
+      53 he married
+      53 and the
+      53 was completed
+      52 returned to
+      51 had a
+      51 born on
+      51 was an
+      50 the school
+      50 the game
+      49 is in
+      49 played college
+      49 graduated from
+      48 is not
+      48 the town
+      47 they had
+      47 the community
+      47 the fight
+      47 university of
+      46 on january
+      46 also a
+      46 during the
+      46 the following
+      46 they have
+      45 the same
+      45 unanimous decision
+      45 married and
+      45 of 2002
+      45 number of
+      45 on july
+      44 an american
+      44 this was
+      44 joined the
+      44 he won
+      44 published in
+      43 divided into
+      43 released in
+      43 as the
+      43 in january
+      43 are also
+      43 on september
+      42 in september
+      42 one of
+      42 of these
+      41 had two
+      41 died on
+      41 the company
+      41 was in
+      41 has two
+      41 two children
+      41 college football
+      41 football at
+      40 was named
+      39 into the
+      39 the current
+      39 was established
+      39 completed in
+      38 events from
+      38 after the
+      38 have a
+      38 it also
+      37 he had
+      37 named after
+      37 the name
+      37 events in
+      37 with a
+      37 produced by
+      37 on november
+      37 high school
+      36 retired from
+      36 new zealand
+      36 married to
+      36 and has
+      36 in april
+      35 a grade
+      35 listed building
+      35 was built
+      35 the city
+      35 was first
+      35 opened in
+      35 she has
+      35 was not
+      35 in june
+      35 the club
+      34 the new
+      34 endemic to
+      34 the two
+      34 was published
+      34 has also
+      34 the show
+      34 on april
+      34 he became
+      34 and two
+      34 died at
+      33 in his
+      33 film was
+      33 in august
+      33 in 2011
+      33 of his
+      33 of a
+      33 his wife
+      33 on 1
+      33 on december
+      32 album was
+      32 up in
+      32 was opened
+      32 member of
+      32 the second
+      32 in 2006
+      32 in this
+      32 on june
+      31 is endemic
+      31 the song
+      31 was later
+      31 in 2017
+      31 the building
+      31 was educated
+      31 established in
+      31 the final
+      31 he graduated
+      31 in 2003
+      30 was founded
+      30 owned by
+      30 in july
+      30 this species
+      30 in may
+      30 more than
+      30 will be
+      30 in october
+      30 consists of
+      30 he served
+      30 station opened
+      30 on may
+      30 played for
+      29 the nearest
+      29 in 2020
+      29 the next
+      29 he moved
+      29 station is
+      29 does not
+      29 was waived
+      29 his father
+      29 in 2007
+      29 based on
+      29 are in
+      29 took place
+      29 however the
+      29 in 2009
+      28 buried in
+      28 built in
+      28 the race
+      28 grew up
+      28 is divided
+      28 was re
+      28 was married
+      28 he retired
+      28 was produced
+      28 via unanimous
+      28 is currently
+      28 the main
+      28 has an
+      28 was held
+      27 there was
+      27 in march
+      27 on october
+      27 and a
+      27 on a
+      27 the team
+      27 in 2010
+      26 had been
+      26 school in
+      26 in december
+      26 served as
+      26 appeared in
+      26 waived on
+      26 educated at
+      26 in 2012
+      26 fight via
+      26 as an
+      26 on march
+      26 the project
+      25 in 2001
+      25 the church
+      25 he joined
+      25 the season
+      25 a few
+      25 in germany
+      25 are the
+      25 in november
+      25 through the
+      25 he made
+      25 as well
+      25 is unknown
+      25 is named
+      25 are not
+      25 she had
+      24 was buried
+      24 the book
+      24 is part
+      24 a new
+      24 in 2015
+      24 in 2014
+      24 also known
+      24 is called
+      24 two daughters
+      24 composed by
+      24 in 2004
+      24 in new
+      23 the family
+      23 united states
+      23 his brother
+      23 under the
+      23 now a
+      23 the war
+      23 in 1997
+      23 directed by
+      23 from critics
+      23 she married
+      23 a village
+      23 village in
+      23 the area
+=========================================
+Spoken 2-grams: 
+=========================================
+    1611 this is
+    1292 much for
+    1216 npr news
+    1002 very much
+     999 from npr
+     981 you know
+     883 for the
+     850 i think
+     815 with us
+     813 going to
+     806 of the
+     787 thanks very
+     737 to be
+     713 in the
+     698 on the
+     692 it was
+     679 edition from
+     662 do you
+     632 is a
+     608 thank you
+     588 and i
+     576 i mean
+     571 the call
+     528 so much
+     484 a lot
+     477 want to
+     448 i don't
+     424 was a
+     417 it's a
+     411 is the
+     402 to the
+     402 morning edition
+     396 is morning
+     376 us from
+     369 i was
+     359 have to
+     359 to do
+     340 weekend edition
+     339 is weekend
+     339 kind of
+     328 he was
+     319 have a
+     317 thanks so
+     313 lot of
+     303 that was
+     300 there are
+     298 to have
+     293 for being
+     292 we have
+     280 have you
+     279 being with
+     274 the line
+     274 a very
+     272 to talk
+     270 you have
+     267 that is
+     266 it is
+     264 it's not
+     262 joining us
+     259 and that's
+     256 and the
+     247 in a
+     244 at the
+     242 you can
+     240 are you
+     236 let me
+     234 and so
+     232 what do
+     231 i have
+     228 about that
+     225 so i
+     225 that's a
+     224 let's get
+     224 a little
+     224 and then
+     223 and he
+     222 to you
+     219 talk of
+     218 did you
+     218 the nation
+     217 you think
+     217 go to
+     211 for joining
+     207 they were
+     206 that's what
+     206 about the
+     201 of course
+     199 and it
+     196 and that
+     196 one of
+     193 and we
+     193 with you
+     193 you for
+     192 that's the
+     191 with the
+     190 here in
+     190 about it
+     189 and it's
+     188 don't know
+     187 thanks for
+     187 welcome to
+     186 is not
+     186 talking about
+     184 of them
+     182 there's a
+     181 joins us
+     177 well i
+     177 and you
+     175 nice to
+     175 is that
+     172 was the
+     171 be a
+     170 of that
+     170 of a
+     168 and they
+     167 like a
+     167 to day
+     166 to get
+     163 you very
+     163 to go
+     163 there is
+     163 out of
+     160 back to
+     157 let's go
+     157 you so
+     154 had a
+     153 right now
+     152 think it's
+     152 for a
+     151 i'm not
+     151 i just
+     150 what are
+     150 have been
+     150 there was
+     148 not a
+     146 of it
+     145 us today
+     145 but i
+     144 800 989
+     144 he says
+     143 tell us
+     143 talk about
+     143 the same
+     143 sort of
+     143 for your
+     142 it's all
+     141 caller on
+     141 part of
+     141 from the
+     141 has been
+     140 they have
+     140 new york
+     138 how do
+     137 day to
+     137 good to
+     137 they are
+     136 we are
+     136 he said
+     135 989 8255
+     134 we're going
+     133 do that
+     132 you with
+     132 as a
+     129 a good
+     128 to say
+     128 i want
+     128 wanted to
+     128 will be
+     128 about this
+     128 at all
+     127 is this
+     126 a great
+     126 think that's
+     126 don't think
+     125 can you
+     125 think that
+     124 know what
+     124 a big
+     124 all things
+     124 is in
+     123 as well
+     123 so it's
+     123 in washington
+     123 is it
+     123 things considered
+     123 so you
+     122 we don't
+     122 need to
+     122 just a
+     122 to see
+     122 in this
+     122 to me
+     122 and this
+     120 white house
+     120 got to
+     120 science friday
+     119 it's just
+     119 i said
+     119 do it
+     119 would be
+     119 to take
+     118 so what
+     117 people are
+     117 that's not
+     117 but the
+     116 you want
+     115 she was
+     115 for that
+     114 member station
+     114 i would
+     113 so that's
+     113 some of
+     113 i didn't
+     112 get another
+     112 what is
+     112 how did
+     111 so we
+     111 and what
+     111 like to
+     110 another caller
+     110 he is
+     110 i'm going
+     110 all the
+     110 this was
+     109 for having
+     109 all right
+     109 i had
+     108 to hear
+     108 on that
+     107 not going
+     107 but it
+     107 are the
+     107 trying to
+     106 to that
+     106 for you
+     105 having me
+     105 they don't
+     105 don't have
+     105 with that
+     105 it's the
+     104 talk to
+     104 a couple
+     103 little bit
+     103 of this
+     103 what's the
+     102 listen to
+     101 the white
+     101 it's like
+     100 hear from
+     100 and i'm
+      99 we were
+      99 got a
+      98 a few
+      98 has a
+      97 news it's
+      96 the time
+      96 news the
+      94 been a
+      92 he joins
+      92 to this
+      92 the first
+      92 the president
+      92 what does
+      91 we'll be
+      91 all of
+      91 on this
+      91 you are
+      91 was just
+      90 we know
+      90 the show
+      90 it has
+      90 know i
+      90 you do
+      90 you were
+      89 so it
+      88 the way
+      88 we're talking
+      88 these are
+      87 by the
+      87 but it's
+      87 start with
+      87 going on
+      86 your time
+      86 it's been
+      86 i am
+      86 was like
+      85 i know
+      85 to a
+      85 for us
+      85 the other
+      85 there were
+      84 what you
+      84 you don't
+      84 get a
+      84 like that
+      83 so this
+      83 know that
+      83 i can
+      83 i thought
+      83 take a
+=========================================
+Written 3-grams: 
+=========================================
+       1 helper component
+       1 component proteinase
+       1 proteinase hc
+       1 hc pro
+       1 pro is
+       1 is an
+       1 meurig ap
+       1 ap hywel
+       1 hywel or
+       1 or ap
+       1 is science
+       1 science fiction
+       1 fiction just
+       1 just tabloid
+       1 organist of
+       1 of st.
+       1 st. michael's
+       1 michael's church
+       1 but i
+       1 i say
+       1 say to
+       1 to you
+       1 the designated
+       1 designated mourner
+       1 mourner by
+       1 by wallace
+       1 wallace shawn
+       1 christopher wiehl
+       1 wiehl born
+       1 born is
+       1 is an
+       1 an american
+       1 the new
+       1 new york
+       1 york times
+       1 times february
+       1 february 22
+       1 transactional analysis
+       1 analysis in
+       1 in psychotherapy
+       1 psychotherapy 1961
+       1 1961 1986
+       1 it has
+       1 has a
+       1 a population
+       1 population of
+       1 of as
+       1 it is
+       1 is a
+       1 a grade
+       1 grade i
+       1 i listed
+       1 no motive
+       1 motive for
+       1 for the
+       1 the shootings
+       1 shootings is
+       1 mastered at
+       1 at cbs
+       1 cbs studios
+       1 studios new
+       1 new york
+       1 he scored
+       1 scored 76
+       1 76 in
+       1 in his
+       1 his only
+       1 the nearest
+       1 nearest railway
+       1 railway stations
+       1 stations is
+       1 is at
+       1 agnes married
+       1 married berthold
+       1 berthold iv
+       1 iv duke
+       1 duke of
+       1 he also
+       1 also went
+       1 went to
+       1 to prison
+       1 prison six
+       1 it was
+       1 was reprinted
+       1 reprinted by
+       1 by urlink
+       1 urlink in
+       1 the family
+       1 family vacationed
+       1 vacationed there
+       1 there for
+       1 for four
+       1 the pfaff
+       1 pfaff factory
+       1 factory was
+       1 was expanded
+       1 expanded and
+       1 cardwell was
+       1 was born
+       1 born at
+       1 at blackburn
+       1 blackburn in
+       1 it is
+       1 is an
+       1 an autobiography
+       1 autobiography with
+       1 with fictional
+       1 the jaghjagh
+       1 jaghjagh river
+       1 river flows
+       1 flows through
+       1 through both
+       1 he was
+       1 was buried
+       1 buried in
+       1 in arlington
+       1 arlington national
+       1 the shell
+       1 shell contains
+       1 contains about
+       1 about 6
+       1 6 convex
+       1 thunderstorms are
+       1 are infrequent
+       1 infrequent occurring
+       1 occurring only
+       1 only during
+       1 he was
+       1 was released
+       1 released on
+       1 on august
+       1 august 31
+       1 r. g.
+       1 g. d.
+       1 d. forward
+       1 forward 75566
+       1 75566 acting
+       1 the teacher
+       1 teacher ignores
+       1 ignores the
+       1 the student's
+       1 student's poor
+       1 then both
+       1 both of
+       1 of them
+       1 them broke
+       1 broke into
+       1 many frogs
+       1 frogs become
+       1 become active
+       1 active in
+       1 in the
+       1 he started
+       1 started 12th
+       1 12th and
+       1 and finished
+       1 finished in
+       1 its ohio
+       1 ohio senator
+       1 senator is
+       1 is republican
+       1 republican tim
+       1 ferrier co
+       1 co wrote
+       1 wrote the
+       1 the script
+       1 script with
+       1 with kelly
+       1 there were
+       1 were 130
+       1 130 employees
+       1 employees and
+       1 and 42
+       1 in 2001
+       1 2001 black
+       1 black purchased
+       1 purchased the
+       1 the honolulu
+       1 honolulu star
+       1 it was
+       1 was a
+       1 a piece
+       1 piece of
+       1 of utter
+       1 the album
+       1 album was
+       1 was announced
+       1 announced in
+       1 in september
+       1 he had
+       1 had 21
+       1 21 career
+       1 career runs
+       1 runs batted
+       1 the church
+       1 church is
+       1 is built
+       1 built in
+       1 in red
+       1 named after
+       1 after ananke
+       1 ananke a
+       1 a moon
+       1 moon of
+       1 permits are
+       1 are required
+       1 required to
+       1 to visit
+       1 visit the
+       1 for kasliwal
+       1 kasliwal inspiration
+       1 inspiration was
+       1 was all
+       1 all around
+       1 vicki casey
+       1 casey and
+       1 and lizzie's
+       1 lizzie's cousin
+       1 cousin from
+       1 torreneules is
+       1 is a
+       1 a mountain
+       1 mountain of
+       1 of catalonia
+       1 the repositories
+       1 repositories can
+       1 can be
+       1 be downloaded
+       1 downloaded after
+       1 some remained
+       1 remained in
+       1 in service
+       1 service in
+       1 in the
+       1 it is
+       1 is known
+       1 known from
+       1 from tamil
+       1 tamil nadu
+       1 roswall wins
+       1 wins but
+       1 but flees
+       1 flees before
+       1 before being
+       1 the elevation
+       1 elevation difference
+       1 difference is
+       1 is only
+       1 only 190
+       1 thirty seconds
+       1 seconds to
+       1 to mars
+       1 mars received
+       1 received the
+       1 mrs dora
+       1 dora eisenberg
+       1 eisenberg of
+       1 of new
+       1 new south
+       1 balance can
+       1 can be
+       1 be done
+       1 done in
+       1 in two
+       1 the population
+       1 population was
+       1 was 101
+       1 101 as
+       1 as of
+       1 martyrs dasius
+       1 dasius and
+       1 and maron
+       1 maron by
+       1 by the
+       1 the facility
+       1 facility closed
+       1 closed on
+       1 on january
+       1 january 31
+       1 in 1988
+       1 1988 tobin
+       1 tobin founded
+       1 founded pc
+       1 pc flowers
+       1 maude hazard
+       1 hazard north
+       1 north and
+       1 and south
+       1 south abc
+       1 karachi is
+       1 is the
+       1 the entertainment
+       1 entertainment hub
+       1 hub of
+       1 student sports
+       1 sports include
+       1 include volleyball
+       1 volleyball cricket
+       1 cricket and
+       1 stones can
+=========================================
+Spoken 3-grams: 
+=========================================
+       1 have you
+       1 you seen
+       1 seen a
+       1 a purple
+       1 last question
+       1 question any
+       1 any reviews
+       1 reviews from
+       1 and the
+       1 the c
+       1 c team
+       1 team was
+       1 was my
+       1 robert and
+       1 and michael
+       1 michael meeropol
+       1 meeropol thanks
+       1 thanks very
+       1 ben thanks
+       1 thanks so
+       1 so much
+       1 much of
+       1 of updating
+       1 we don't
+       1 don't try
+       1 try to
+       1 to control
+       1 control the
+       1 so eckerstrom
+       1 eckerstrom says
+       1 says it's
+       1 it's more
+       1 more culturally
+       1 now that
+       1 that brings
+       1 brings us
+       1 us to
+       1 to the
+       1 let's get
+       1 get another
+       1 another caller
+       1 caller on
+       1 on the
+       1 if the
+       1 the clot
+       1 clot is
+       1 is not
+       1 not dissolved
+       1 mara liasson
+       1 liasson npr
+       1 npr new
+       1 new the
+       1 the white
+       1 this is
+       1 is morning
+       1 morning edition
+       1 edition from
+       1 from npr
+       1 nice to
+       1 to have
+       1 have you
+       1 you with
+       1 with us
+       1 i was
+       1 was there
+       1 there it
+       1 it was
+       1 was quite
+       1 and here
+       1 here was
+       1 was a
+       1 a great
+       1 great test
+       1 and we
+       1 we want
+       1 want to
+       1 to hear
+       1 hear from
+       1 thomas jefferson
+       1 jefferson possibly
+       1 possibly had
+       1 had that
+       1 that put
+       1 you have
+       1 have to
+       1 to be
+       1 be careful
+       1 careful of
+       1 we'll be
+       1 be right
+       1 right back
+       1 back after
+       1 after this
+       1 i mean
+       1 mean there's
+       1 there's all
+       1 all kinds
+       1 kinds of
+       1 he changed
+       1 changed his
+       1 his image
+       1 image from
+       1 from last
+       1 so that's
+       1 that's what
+       1 what i
+       1 i have
+       1 have to
+       1 great to
+       1 to talk
+       1 talk to
+       1 to you
+       1 you as
+       1 the average
+       1 average age
+       1 age you
+       1 you say
+       1 say is
+       1 we're weaving
+       1 weaving our
+       1 our way
+       1 way between
+       1 between exploded
+       1 so we
+       1 we are
+       1 are warming
+       1 warming the
+       1 the planet
+       1 still the
+       1 the i.d.
+       1 i.d. card
+       1 card has
+       1 has it
+       1 it's what
+       1 what the
+       1 the schedule
+       1 schedule gods
+       1 gods give
+       1 these jurors
+       1 jurors didn't
+       1 didn't seem
+       1 seem sophisticated
+       1 sophisticated to
+       1 this is
+       1 is the
+       1 the conundrum
+       1 conundrum we
+       1 we all
+       1 ana marie
+       1 marie cox
+       1 cox thank
+       1 thank you
+       1 you very
+       1 many older
+       1 older americans
+       1 americans were
+       1 were involved
+       1 involved in
+       1 so let's
+       1 let's take
+       1 take the
+       1 the indirect
+       1 indirect evidence
+       1 and why
+       1 why don't
+       1 don't we
+       1 we begin
+       1 begin with
+       1 he's with
+       1 with us
+       1 us here
+       1 here in
+       1 in studio
+       1 of course
+       1 course you
+       1 you could
+       1 could live
+       1 live somewhere
+       1 president george
+       1 george h.w.
+       1 h.w. bush
+       1 bush read
+       1 read my
+       1 it doesn't
+       1 doesn't mean
+       1 mean i
+       1 i have
+       1 have good
+       1 what do
+       1 do we
+       1 we know
+       1 know about
+       1 about tim
+       1 no one
+       1 one would
+       1 would hear
+       1 hear of
+       1 of the
+       1 well i
+       1 i bet
+       1 bet the
+       1 the food
+       1 food is
+       1 of course
+       1 course wikileaks
+       1 wikileaks was
+       1 was only
+       1 only about
+       1 so it's
+       1 it's another
+       1 another interesting
+       1 interesting day
+       1 day in
+       1 that was
+       1 was pretty
+       1 pretty much
+       1 much wrap
+       1 wrap your
+       1 bob bloomfield
+       1 bloomfield the
+       1 the champion
+       1 champion of
+       1 of darwin
+       1 no one
+       1 one was
+       1 was coming
+       1 coming to
+       1 to collect
+       1 nice to
+       1 to have
+       1 have you
+       1 you with
+       1 with us
+       1 this is
+       1 is morning
+       1 morning edition
+       1 edition from
+       1 from npr
+       1 many homes
+       1 homes are
+       1 are without
+       1 without water
+       1 water and
+       1 flake says
+       1 says the
+       1 the message
+       1 message is
+       1 is what
+       1 well i
+       1 i was
+       1 was walking
+       1 walking down
+       1 down the
+       1 with us
+       1 us is
+       1 is chad
+       1 chad brown
+       1 brown of
+       1 pray for
+       1 for them
+       1 them that
+       1 that despitefully
+       1 despitefully use
+       1 what can
+       1 can you
+       1 you tell
+       1 tell us
+       1 us about
+       1 and it's
+       1 it's 18
+       1 18 minutes
+       1 minutes past
+       1 past the
+       1 do you
+       1 you think
+       1 think congress
+       1 congress should
+       1 should do
+       1 the administration's
+       1 administration's move
+       1 move is
+       1 is not
+       1 not without
+       1 we were
+       1 were told
+       1 told 100
+       1 100 people
+       1 people would
+       1 but social
+       1 social scientists
+       1 scientists say
+       1 say wait
+       1 wait a
+       1 she joined
+       1 joined us
+       1 us from
+       1 from studios
+       1 studios in
+       1 it can
+       1 can be
+=========================================
+Number of tokens:
+=========================================
+Spoken set:  22215
+Written set: 28312
+Shared:      10106
+=========================================
+High-r tokens: 
+=========================================
+     181 located
+     101 2019
+      73 2021
+      54 2017
+      44 2022
+      43 composed
+      36 zealand
+      34 competed
+    32,5 graduated
+      32 1972
+      32 c.
+      32 numerous
+      32 renamed
+    31,5 inc
+      31 a.
+      29 1976
+      29 australian
+   28,67 2002
+      27 1975
+      27 tournament
+      26 constructed
+      26 surname
+   25,88 2010
+    25,8 species
+   25,18 population
+      25 august
+      25 participated
+      25 succeeded
+      24 1978
+      24 sri
+      23 municipality
+    22,5 2018
+   22,25 2014
+      22 1960
+      22 1990
+      22 mr
+      22 premiered
+      21 aged
+      21 bros
+      21 debut
+    20,8 2012
+    20,5 sons
+   20,08 village
+      20 1980
+      20 listed
+      20 r.
+   19,75 completed
+      19 1982
+      19 aircraft
+      19 b.
+=========================================
+Small-r tokens: 
+=========================================
+       0 thanks
+       0 yeah
+       0 let's
+       0 weekend
+       0 mean
+       0 i've
+       0 joins
+    0,01 we're
+    0,01 caller
+    0,01 maybe
+    0,01 calling
+    0,01 yes
+    0,01 i'm
+    0,01 we'll
+    0,01 moment
+    0,01 hear
+    0,01 they've
+    0,01 that's
+    0,01 exactly
+    0,01 we've
+    0,01 phone
+    0,01 they're
+    0,01 everybody
+    0,01 listen
+    0,01 really
+    0,01 pretty
+    0,01 you're
+    0,01 news
+    0,01 morning
+    0,01 there's
+    0,01 doing
+    0,01 welcome
+    0,01 absolutely
+    0,01 it's
+    0,01 you
+    0,01 so
+    0,01 happening
+    0,01 talking
+    0,01 know
+    0,01 your
+    0,01 think
+    0,01 talk
+    0,01 haven't
+    0,01 talked
+    0,01 say
+    0,01 agree
+    0,01 wouldn't
+    0,01 call
+    0,01 tomorrow
+    0,01 actually

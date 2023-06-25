@@ -1,0 +1,124 @@
+=========================================
+Written 2-grams: 
+=========================================
+=========================================
+Spoken 2-grams: 
+=========================================
+=========================================
+Written 3-grams: 
+=========================================
+=========================================
+Spoken 3-grams: 
+=========================================
+=========================================
+Number of tokens:
+=========================================
+Spoken set:  23093
+Written set: 29101
+Shared:      9986
+=========================================
+High-r tokens: 
+=========================================
+        $1 0
+      reed 0
+      reef 0
+reelection 0
+   forward 0
+forty-three 0
+    reeves 0
+   fortune 0
+    reduce 0
+  reflects 0
+      fort 0
+    reform 0
+   reforms 0
+    refuse 0
+    former 0
+   refused 0
+ regarding 0
+     forth 0
+regardless 0
+       red 0
+ recycling 0
+ recommend 0
+recommendation 0
+  franklin 0
+   frankie 0
+     frank 0
+    franco 0
+recommendations 0
+foundations 0
+ francisco 0
+    record 0
+  recorder 0
+   recount 0
+       fox 0
+recovering 0
+  recovery 0
+   founder 0
+reconstruction 0
+  register 0
+ forgotten 0
+    forgot 0
+   rejects 0
+   folding 0
+relationship 0
+       fog 0
+   focused 0
+     focus 0
+relationships 0
+     folks 0
+    flying 0
+=========================================
+Small-r tokens: 
+=========================================
+remained   18
+1999       18
+completed  19
+1982       19
+b.         19
+2012       20
+listed     20
+sons       20
+village    20
+r.         20
+1980       20
+temple     20
+bros       21
+2014       21
+1960       21
+debut      21
+premiered  22
+1990       22
+2018       22
+municipality 23
+1978       24
+sri        24
+species    25
+population 25
+2010       25
+succeeded  25
+participated 25
+constructed 26
+tournament 26
+1975       26
+surname    26
+2002       28
+1976       28
+australian 29
+august     30
+inc        31
+1972       31
+a.         31
+graduated  32
+numerous   32
+renamed    32
+c.         32
+competed   34
+zealand    36
+composed   42
+2022       44
+2017       53
+2021       72
+2019       98
+located    181

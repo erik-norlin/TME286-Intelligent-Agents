@@ -1,0 +1,6 @@
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\x64\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\x64\Debug\ChatbotLibrary.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\x64\Debug\ChatbotLibrary.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\x64\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\x64\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\x64\Debug\ChatbotLibrary.pdb

@@ -1,0 +1,1324 @@
+=========================================
+Written 1-grams: 
+=========================================
+ 1436335 the
+  662421 of
+  590213 in
+  581034 and
+  421681 to
+  407733 a
+  258194 was
+  184285 is
+  171490 on
+  170647 for
+  160225 as
+  143929 with
+  142082 by
+  133408 he
+  113492 at
+  109586 that
+  108162 from
+  100587 his
+   94368 it
+   74992 an
+   70293 were
+   60162 are
+   57223 which
+   51779 this
+   50995 also
+   50293 had
+   50180 be
+   46952 first
+   46498 has
+   44452 or
+   41813 after
+   41731 their
+   40318 she
+   40207 its
+   39812 one
+   38972 her
+   38435 new
+   37680 but
+   36713 not
+   36103 they
+   35299 two
+   34906 who
+   33716 have
+   31656 been
+   28455 other
+   27584 when
+   27117 during
+   26510 all
+   26473 time
+   24800 into
+   24585 there
+   22245 more
+   21513 school
+   21089 would
+   20925 over
+   20812 years
+   20555 year
+   20222 may
+   19778 only
+   19714 up
+   19405 later
+   19127 where
+   19112 between
+   18882 three
+   18462 most
+   18442 city
+   18420 university
+   18292 some
+   18279 national
+   18077 him
+   18069 then
+   17847 out
+   17847 world
+   17700 while
+   17612 such
+   17570 under
+   17539 used
+   17455 state
+   17322 can
+   17205 united
+   17122 made
+   17026 became
+   16804 about
+   16758 part
+   16591 many
+   15938 these
+   15925 team
+   15818 american
+   15641 states
+   15629 than
+   15583 born
+   15555 second
+   15286 film
+   15203 through
+   15155 both
+   15078 south
+   15053 before
+   15048 being
+   14945 including
+   14859 known
+   14695 well
+   14620 until
+   14588 war
+   14235 however
+   14118 family
+   13749 since
+   13672 high
+   13591 them
+   13483 north
+   13429 season
+   13336 against
+   13013 no
+   12942 area
+   12743 people
+   12725 work
+   12659 series
+   12364 several
+   12180 four
+   12059 played
+   11664 government
+   11564 early
+   11501 number
+   11373 group
+   11317 company
+   11282 following
+   11175 same
+   11147 released
+   11084 house
+   10983 won
+   10963 each
+   10937 began
+   10741 will
+   10642 found
+   10567 game
+   10546 1
+   10469 based
+   10462 league
+   10400 county
+   10279 west
+   10273 march
+   10260 june
+   10228 day
+   10182 age
+   10167 september
+   10125 member
+   10041 july
+   10029 general
+   10009 music
+    9982 use
+    9959 october
+    9852 held
+    9782 college
+    9779 january
+    9721 due
+    9682 end
+    9672 public
+    9664 august
+    9638 place
+    9608 i
+    9596 april
+    9583 population
+    9566 district
+    9521 home
+    9380 located
+    9379 name
+    9359 so
+    9312 century
+    9298 november
+    9298 now
+    9286 church
+    9267 took
+    9253 international
+    9153 served
+    9108 british
+    9089 former
+    9030 album
+    9030 station
+    9025 december
+    8966 local
+    8935 named
+    8919 john
+    8912 town
+    8902 party
+    8880 east
+    8854 around
+    8834 york
+    8801 system
+    8797 built
+    8789 club
+    8777 back
+    8729 called
+    8688 service
+    8646 2
+    8585 because
+    8573 line
+    8547 if
+    8485 any
+    8483 long
+    8454 received
+    8450 did
+    8413 along
+    8395 building
+    8388 died
+    8354 could
+    8295 river
+    8286 february
+    8241 five
+    8224 species
+    8159 another
+    8139 life
+    8062 president
+    8056 members
+    8051 large
+    8027 major
+    7996 left
+    7979 like
+    7879 games
+    7874 within
+    7655 final
+    7645 2010
+    7620 football
+    7586 small
+    7571 third
+    7518 although
+    7492 park
+    7469 set
+    7408 those
+    7404 old
+    7367 best
+    7364 3
+    7325 death
+    7324 moved
+    7293 off
+    7291 show
+    7286 army
+    7167 main
+    7126 law
+    7078 air
+    7051 published
+    6995 2011
+    6980 own
+    6964 order
+    6949 still
+    6938 last
+    6878 2012
+    6863 history
+    6853 led
+    6843 18
+    6830 water
+    6823 often
+    6819 community
+    6793 2016
+    6771 development
+    6753 de
+    6729 2013
+    6723 road
+    6700 included
+    6635 village
+    6595 10
+    6588 children
+    6577 court
+    6570 play
+    6555 council
+    6546 election
+    6543 2014
+    6510 career
+    6494 2015
+    6486 established
+    6482 band
+    6467 4
+    6466 2008
+    6464 near
+    6454 research
+    6447 late
+    6434 among
+    6423 according
+    6418 2009
+    6411 announced
+    6354 2018
+    6350 down
+    6344 support
+    6335 very
+    6328 include
+    6311 different
+    6311 six
+    6310 son
+    6308 london
+    6302 again
+    6276 2017
+    6271 2019
+    6260 side
+    6250 much
+    6231 white
+    6224 book
+    6216 central
+    6115 great
+    6084 division
+    6080 times
+    6078 u.s.
+    6070 form
+=========================================
+Spoken 1-grams: 
+=========================================
+  723141 the
+  426643 and
+  414869 to
+  368643 of
+  342074 a
+  280388 that
+  273791 in
+  182673 you
+  179159 is
+  174607 i
+  135629 it
+  127285 for
+  118216 this
+  105146 was
+  102863 on
+   94698 have
+   91507 we
+   89152 with
+   89054 but
+   88764 are
+   85902 they
+   81330 so
+   80508 he
+   76374 be
+   71664 as
+   70997 about
+   69329 know
+   69225 at
+   68034 from
+   63771 not
+   62739 what
+   62228 it's
+   57907 people
+   55730 there
+   50880 think
+   49371 just
+   47736 or
+   47720 like
+   46992 one
+   45866 do
+   45347 if
+   45055 who
+   45034 has
+   44780 all
+   42996 an
+   41469 out
+   40222 going
+   40205 his
+   39581 been
+   39305 when
+   38877 now
+   38650 some
+   38507 well
+   38223 more
+   37397 were
+   37194 up
+   36415 can
+   36192 by
+   35948 their
+   35530 would
+   34699 had
+   34671 very
+   32872 that's
+   32782 because
+   31672 get
+   30363 us
+   30057 really
+   29952 them
+   29180 will
+   29179 my
+   28980 how
+   28693 these
+   28174 she
+   27537 time
+   27301 our
+   26467 your
+   26323 says
+   25758 don't
+   25652 say
+   24882 new
+   24555 me
+   24028 other
+   23593 which
+   23220 lot
+   22862 much
+   22620 where
+   22475 her
+   22374 then
+   21939 here
+   21914 i'm
+   21803 also
+   21796 said
+   21364 go
+   21217 those
+   20883 years
+   20785 there's
+   20574 back
+   20202 into
+   20031 way
+   19716 we're
+   19623 no
+   19468 things
+   19446 see
+   19349 could
+   19241 than
+   19089 right
+   19061 want
+   19011 over
+   18751 president
+   18647 they're
+   18254 first
+   18074 many
+   17690 mean
+   17367 even
+   17326 did
+   17196 two
+   17129 you're
+   16990 kind
+   16848 him
+   16747 year
+   16625 he's
+   16397 make
+   15604 got
+   15522 something
+   15419 actually
+   14880 last
+   14691 being
+   14630 talk
+   14523 after
+   14212 news
+   14210 most
+   14108 any
+   13633 today
+   13390 take
+   13270 still
+   13171 down
+   13063 day
+   12920 good
+   12613 come
+   12536 only
+   12486 npr
+   12351 little
+   12090 thing
+   11683 government
+   11434 work
+   11348 state
+   11213 u.s.
+   11207 look
+   11051 its
+   11049 before
+   11043 country
+   10980 part
+   10871 through
+   10731 big
+   10606 around
+   10512 sort
+   10494 should
+   10263 world
+   10256 why
+   10070 didn't
+   10047 talking
+   10000 need
+    9927 american
+    9917 house
+    9883 does
+    9736 long
+    9729 may
+    9661 made
+    9623 different
+    9511 off
+    9462 might
+    9415 another
+    9410 states
+    9303 doing
+    9256 same
+    9158 week
+    9120 life
+    9107 money
+    9098 point
+    9054 put
+    8742 fact
+    8595 too
+    8572 next
+    8546 every
+    8469 called
+    8408 three
+    8315 trying
+    8251 we've
+    8152 question
+    8098 again
+    8062 story
+    8053 course
+    7961 saying
+    7942 call
+    7858 school
+    7835 own
+    7744 tell
+    7706 city
+    7590 let's
+    7561 ago
+    7559 find
+    7553 public
+    7547 case
+    7547 few
+    7517 old
+    7415 home
+    7391 great
+    7386 both
+    7332 never
+    7297 white
+    7235 war
+    7221 political
+    7215 can't
+    7210 came
+    7177 help
+    7173 able
+    7166 getting
+    6988 place
+    6978 went
+    6970 give
+    6956 i've
+    6943 doesn't
+    6937 against
+    6926 between
+    6898 end
+    6897 united
+    6892 whether
+    6863 always
+    6851 what's
+    6814 number
+    6810 family
+    6738 coming
+    6634 obama
+    6573 maybe
+    6550 percent
+    6476 looking
+    6439 black
+    6404 feel
+    6398 important
+    6335 high
+    6305 national
+    6304 use
+    6262 npr's
+    6255 hear
+    6237 health
+    6232 change
+    6226 since
+    6203 show
+    6180 used
+    6179 though
+    6176 bit
+    6169 better
+    6146 thought
+    6124 problem
+    6097 done
+    6061 law
+    5999 york
+    5982 away
+    5963 times
+    5949 having
+    5943 wanted
+    5900 days
+    5873 nation
+    5800 sure
+    5796 far
+    5789 republican
+    5758 while
+    5718 women
+    5715 hard
+    5713 issue
+    5699 program
+    5642 probably
+    5625 she's
+    5591 try
+    5586 job
+    5582 care
+    5542 real
+    5505 party
+    5480 washington
+    5468 let
+    5451 person
+    5446 start
+    5446 yeah
+    5426 under
+    5422 trump
+    5410 told
+    5394 pretty
+    5325 keep
+    5320 man
+    5286 seen
+    5262 group
+    5232 military
+    5227 found
+    5222 started
+    5220 idea
+    5205 believe
+    5192 working
+    5174 anything
+    5166 whole
+    5132 least
+=========================================
+Written 2-grams: 
+=========================================
+  202278 of the
+  145187 in the
+   70509 to the
+   47587 at the
+   47120 and the
+   45891 on the
+   43172 for the
+   36584 is a
+   35237 by the
+   34576 as a
+   32068 with the
+   29826 he was
+   29569 from the
+   24840 the first
+   23745 it was
+   23085 as the
+   20377 it is
+   20231 in a
+   20039 to be
+   18053 of a
+   16373 was a
+   15529 with a
+   15419 one of
+   15190 was the
+   15002 is the
+   14465 during the
+   14446 that the
+   13144 and a
+   12972 part of
+   12378 such as
+   12333 united states
+   11861 the united
+   11732 and was
+   11145 to a
+   10874 for a
+   10365 after the
+   10323 of his
+   10278 has been
+    9975 as well
+    9921 the same
+    9322 due to
+    9167 the new
+    8722 is an
+    8412 well as
+    8204 into the
+    8178 the city
+    8170 new york
+    7998 have been
+    7835 by a
+    7779 on a
+    7768 she was
+    7747 the second
+    7664 had been
+    7643 number of
+    7615 under the
+    7559 member of
+    7472 university of
+    7349 can be
+    7171 the national
+    7125 known as
+    7043 the university
+    6850 in his
+    6576 and in
+    6559 and is
+    6510 as an
+    6436 he is
+    6412 a new
+    6406 according to
+    6300 had a
+    6136 the most
+    6114 was born
+    6004 and his
+    5982 end of
+    5936 was also
+    5911 out of
+    5891 did not
+    5864 has a
+    5821 which was
+    5715 the film
+    5713 the end
+    5699 when the
+    5675 over the
+    5651 that he
+    5528 where he
+    5429 there were
+    5422 is also
+    5404 the time
+    5312 born in
+    5251 to have
+    5206 the world
+    5194 a member
+    5122 the two
+    5055 there are
+    5027 more than
+    5017 based on
+    4932 which is
+    4911 served as
+    4840 they were
+    4819 between the
+    4816 through the
+    4803 and other
+    4795 won the
+    4783 high school
+    4755 would be
+    4656 there is
+    4655 he had
+    4629 the family
+    4569 the town
+    4561 for his
+    4540 of its
+    4539 was released
+    4483 of their
+    4372 the main
+    4367 moved to
+    4354 along with
+    4327 world war
+    4297 the state
+    4228 was not
+    4207 he also
+    4200 to his
+    4123 of this
+    4110 the north
+    4081 returned to
+    4078 the other
+    4070 in which
+    4060 the following
+    4060 the last
+    4016 age of
+    4012 the south
+    4011 the early
+    4004 it has
+    3997 as of
+    3995 the area
+    3992 the age
+    3986 within the
+    3974 they are
+    3973 in an
+    3969 against the
+    3953 became the
+    3947 the population
+    3930 the british
+    3905 at a
+    3864 from a
+    3856 most of
+    3848 with his
+    3825 became a
+    3809 the next
+    3785 a number
+    3773 up to
+    3762 is located
+    3752 in this
+    3747 the original
+    3730 is not
+    3717 of which
+    3712 located in
+    3706 he has
+    3704 the company
+    3660 in addition
+    3640 was an
+    3637 when he
+    3628 the final
+    3572 the game
+    3547 the village
+    3519 before the
+    3519 the year
+    3504 the only
+    3492 and then
+    3470 used to
+    3465 the team
+    3442 but the
+    3430 members of
+    3426 his first
+    3424 found in
+    3361 some of
+    3360 into a
+    3344 this is
+    3342 of an
+    3336 the american
+    3332 able to
+    3323 this was
+    3297 the u.s.
+    3284 who was
+    3282 that it
+    3278 to make
+    3271 a few
+    3259 following the
+    3229 of these
+    3226 while the
+    3225 of her
+    3224 the war
+    3214 in new
+    3199 the royal
+    3193 use of
+    3189 a large
+    3179 the west
+    3151 the band
+    3151 the third
+    3126 back to
+    3112 was appointed
+    3103 the top
+    3095 around the
+    3095 who had
+    3093 the school
+    3090 about the
+    3090 in order
+    3068 the name
+    3067 may be
+    3064 the house
+    3051 in their
+    3040 the album
+    3036 as part
+    3017 the late
+    3014 a small
+    2994 city of
+    2989 was named
+    2978 because of
+    2975 order to
+    2973 including the
+    2972 president of
+    2958 she is
+    2957 the song
+    2920 species of
+    2911 the church
+    2910 and he
+    2907 the government
+    2898 the series
+    2896 the country
+    2888 after a
+    2880 and its
+    2869 the club
+    2854 him to
+    2843 since the
+    2843 was in
+    2819 which he
+    2809 the season
+    2808 and to
+    2796 until the
+    2793 in january
+    2782 and has
+    2765 a single
+    2764 at least
+    2756 have a
+    2752 there was
+    2741 joined the
+    2735 in june
+    2732 with an
+    2687 be a
+    2687 in may
+    2686 died in
+    2684 a result
+    2682 that they
+    2681 is one
+    2667 in september
+    2657 in october
+    2629 he became
+    2625 all the
+    2615 the building
+    2613 where the
+    2602 on to
+    2583 series of
+    2582 was built
+    2580 state of
+    2577 will be
+    2575 in march
+    2572 along the
+    2555 the east
+    2539 an american
+    2537 released on
+    2534 that is
+    2526 used in
+    2523 the station
+    2521 in july
+    2516 to take
+    2512 and it
+    2512 does not
+    2507 was elected
+    2503 all of
+    2499 in november
+    2494 on his
+    2487 many of
+    2484 among the
+    2482 in august
+    2480 was one
+    2474 the largest
+    2469 led to
+    2457 throughout the
+    2456 however the
+    2454 area of
+    2450 a total
+    2449 prior to
+    2448 he played
+    2432 in april
+    2432 of all
+    2425 his wife
+    2424 the site
+    2420 new zealand
+    2410 also a
+    2406 the group
+    2402 announced that
+    2402 of new
+=========================================
+Spoken 2-grams: 
+=========================================
+   83014 of the
+   66909 in the
+   50743 you know
+   33664 i think
+   31856 to be
+   30783 going to
+   30589 on the
+   28902 to the
+   25902 and the
+   23835 and i
+   22279 a lot
+   21482 for the
+   21473 at the
+   21067 this is
+   18195 lot of
+   17871 is a
+   17788 in a
+   17206 it was
+   16667 that the
+   16396 kind of
+   15527 one of
+   14930 with the
+   14612 i mean
+   14130 have to
+   13797 of a
+   13736 want to
+   13703 to do
+   13317 from the
+   12663 is the
+   12036 to get
+   11815 about the
+   11588 was a
+   11463 if you
+   11308 there are
+   11280 as a
+   11278 i was
+   11223 and then
+   11212 have a
+   11169 is that
+   10726 he was
+   10351 and so
+   10282 we have
+   10131 sort of
+    9843 and you
+    9777 for a
+    9715 have been
+    9573 to have
+    9470 that we
+    9458 and that
+    9358 out of
+    9280 that you
+    9204 some of
+    9115 you have
+    9109 you can
+    9081 do you
+    8984 that they
+    8938 i don't
+    8838 and he
+    8790 by the
+    8733 and they
+    8603 has been
+    8504 npr news
+    8443 it is
+    8295 a little
+    8234 and it
+    8186 in this
+    8181 part of
+    7995 it's a
+    7974 the same
+    7892 think that
+    7886 the first
+    7872 trying to
+    7749 to make
+    7631 that i
+    7610 and we
+    7578 that is
+    7575 to a
+    7561 and a
+    7466 people who
+    7422 be a
+    7381 with a
+    7331 but i
+    7246 that was
+    7230 would be
+    7173 the u.s.
+    7143 they were
+    7097 to go
+    7087 of this
+    7079 a very
+    7037 able to
+    7013 of course
+    6969 all the
+    6842 which is
+    6737 with us
+    6651 there was
+    6650 will be
+    6635 that he
+    6634 there is
+    6632 over the
+    6418 and it's
+    6394 on a
+    6351 so i
+    6343 there's a
+    6294 the way
+    6275 from npr
+    6268 the world
+    6247 more than
+    6238 the united
+    6228 but the
+    6158 talking about
+    6105 all of
+    6094 to see
+    6077 is not
+    6014 the other
+    5964 new york
+    5901 into the
+    5890 when you
+    5872 the president
+    5838 of people
+    5793 to say
+    5752 of that
+    5718 united states
+    5714 of them
+    5676 it's not
+    5603 need to
+    5595 was the
+    5573 he says
+    5570 and that's
+    5494 i have
+    5419 the country
+    5417 who are
+    5275 as the
+    5273 that are
+    5246 right now
+    5219 they have
+    5210 look at
+    5181 they are
+    5170 and in
+    5159 the last
+    5149 of these
+    5145 a few
+    5132 the most
+    5119 talk about
+    5074 to take
+    5013 go to
+    4943 to talk
+    4923 the nation
+    4911 had a
+    4906 that it
+    4783 so much
+    4781 i would
+    4735 we can
+    4706 as well
+    4687 at least
+    4668 back to
+    4664 the people
+    4637 at a
+    4620 much for
+    4597 and what
+    4565 very much
+    4564 you think
+    4547 the new
+    4527 talk of
+    4475 in fact
+    4448 and this
+    4439 when i
+    4407 wanted to
+    4360 we are
+    4347 of those
+    4329 a new
+    4307 the time
+    4293 we're going
+    4280 that this
+    4260 well i
+    4203 people are
+    4187 in that
+    4174 of his
+    4155 don't know
+    4146 us from
+    4137 years ago
+    4090 is going
+    4073 know the
+    4061 like a
+    4037 the government
+    4017 try to
+    3986 know that
+    3963 that there
+    3952 of it
+    3949 number of
+    3944 had to
+    3895 thank you
+    3884 have the
+    3881 but it
+    3857 to me
+    3855 what the
+    3834 little bit
+    3803 say that
+    3799 i just
+    3766 things that
+    3741 he said
+    3739 the state
+    3730 here in
+    3694 a big
+    3668 about it
+    3663 think the
+    3644 we were
+    3638 she was
+    3627 up to
+    3626 know i
+    3607 there were
+    3595 a good
+    3584 the next
+    3577 to you
+    3548 the end
+    3530 as you
+    3525 and if
+    3522 just a
+    3510 because of
+    3496 like to
+    3495 when the
+    3488 like the
+    3479 the fact
+    3458 what we
+    3457 of what
+    3442 this week
+    3424 if we
+    3417 i had
+    3402 so the
+    3398 would have
+    3384 to come
+    3374 of our
+    3373 is to
+    3370 from a
+    3363 white house
+    3336 way to
+    3326 think it's
+    3324 and there
+    3322 says the
+    3320 about this
+    3315 it would
+    3303 a couple
+    3288 that would
+    3285 and to
+    3285 something that
+    3276 be the
+    3271 don't think
+    3262 be able
+    3260 on this
+    3259 has a
+    3256 we don't
+    3253 around the
+    3246 so that
+    3240 can be
+    3225 not a
+    3224 could be
+    3219 most of
+    3209 get a
+    3193 what i
+    3176 of their
+    3176 so you
+    3166 in new
+    3160 been a
+    3156 but you
+    3148 of all
+    3146 in his
+    3141 terms of
+    3138 don't have
+    3131 used to
+    3130 i want
+    3128 couple of
+    3120 and she
+    3117 i know
+    3099 the past
+    3098 they can
+    3073 but it's
+    3069 are the
+    3053 they don't
+    3052 fact that
+    3050 are going
+    3047 if they
+    3044 for example
+    3039 in terms
+    3030 how to
+    3029 know what
+    3025 about a
+    3022 is in
+    3019 you don't
+    3013 after the
+    3009 people in
+    3004 is an
+    2997 going on
+    2994 in my
+    2992 should be
+    2990 the white
+    2977 is it
+    2963 he had
+    2953 got to
+    2940 that's the
+    2932 when he
+    2927 it's the
+=========================================
+Number of tokens:
+=========================================
+Spoken set:  121841
+Written set: 436849
+Shared:      84041
+=========================================
+High-r tokens: 
+=========================================
+     744 colour
+     690 ltd
+     585 footballer
+   507,5 queensland
+     483 1886
+     436 centres
+     433 uefa
+  350,33 fc
+     349 hms
+     327 surrey
+     324 ce
+     313 saskatchewan
+     310 1852
+     298 nadu
+     293 gameplay
+  280,67 organisation
+     277 atp
+     276 councillor
+     274 1895
+     273 raf
+     264 brisbane
+  261,27 st
+     259 relegation
+     259 tasmania
+     254 duchy
+     250 maharashtra
+   249,2 defence
+     247 1833
+     244 nave
+     241 1887
+     238 commenced
+     237 bengali
+     235 1832
+     232 lok
+  231,67 1904
+     231 1842
+     230 gt
+  229,76 centre
+   216,5 1883
+     211 uttar
+     208 1867
+     207 1879
+     207 und
+  206,67 1902
+     201 1834
+   196,5 kerala
+     195 1873
+  194,25 prix
+     193 1806
+     191 1829
+=========================================
+Small-r tokens: 
+=========================================
+       0 8255
+       0 npr's
+       0 qaida
+       0 farai
+       0 gadhafi
+       0 npr
+       0 shortz
+    0,01 yeah
+    0,01 gonyea
+    0,01 989
+    0,01 we're
+    0,01 we've
+    0,01 here's
+    0,01 yesterday's
+    0,01 who've
+    0,01 they're
+    0,01 petraeus
+    0,01 there'll
+    0,01 we'll
+    0,01 that's
+    0,01 there's
+    0,01 you're
+    0,01 folks
+    0,01 whatnot
+    0,01 yesterday
+    0,01 quist
+    0,01 you've
+    0,01 palca
+    0,01 let's
+    0,01 they've
+    0,01 cetera
+    0,01 they'll
+    0,01 folkenflik
+    0,01 dont
+    0,01 'cause
+    0,01 newseum
+    0,01 panetta
+    0,01 whoa
+    0,01 abramoff
+    0,01 bernanke
+    0,02 bipartisanship
+    0,02 bothers
+    0,02 junkie
+    0,02 you'd
+    0,02 pollsters
+    0,02 know
+    0,02 maybe
+    0,02 think
+    0,02 thank
+    0,02 you

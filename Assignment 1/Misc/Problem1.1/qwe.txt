@@ -1,0 +1,1 @@
+cmp(fil1, file2[, shallow])

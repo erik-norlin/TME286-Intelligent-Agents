@@ -1,0 +1,59 @@
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csprojAssemblyReference.cache
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CopyComplete
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\bin\Debug\AuxiliaryLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2021\Src (mine)\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2022\Assignments\Assignment 2\StartingPoint2\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\Problem2.2\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\bin\Debug\ChatbotLibrary.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 3\StartingPoint3\3.1\Src\Libraries\ChatbotLibrary\obj\Debug\ChatbotLibrary.pdb

@@ -1,0 +1,72 @@
+=========================================
+Number of tokens:
+=========================================
+Negative set:  4283
+Positive set: 3870
+Shared:      1826
+=========================================
+High-r tokens: 
+=========================================
+    1,57 red
+    1,13 shooting
+    1,08 roles
+    1,04 highly
+       1 greatest
+       1 magician
+    0,95 classic
+    0,95 mad
+     0,9 earlier
+     0,9 memorable
+     0,9 several
+    0,85 career
+    0,85 girls
+    0,85 incredibly
+    0,85 moving
+    0,85 principal
+    0,85 student
+    0,85 teenage
+    0,81 loved
+     0,8 room
+    0,78 aftermath
+    0,78 begin
+    0,78 deniro
+    0,78 gorgeous
+    0,78 hasn't
+    0,78 niro
+    0,78 open
+    0,78 public
+    0,78 sister
+    0,78 successful
+=========================================
+Small-r tokens: 
+=========================================
+   -1,43 worst
+   -1,28 making
+   -1,23 book
+   -1,11 unfortunately
+   -1,04 awful
+   -1,04 gore
+      -1 gang
+   -0,95 1
+   -0,95 list
+   -0,95 naked
+   -0,95 opening
+   -0,95 predictable
+   -0,95 writing
+   -0,93 guy
+    -0,9 acted
+    -0,9 avoid
+    -0,9 crap
+    -0,9 early
+    -0,9 looks
+    -0,9 money
+    -0,9 rape
+    -0,9 terrible
+   -0,85 bad
+   -0,85 cheap
+   -0,85 hot
+   -0,85 hours
+   -0,85 lines
+   -0,85 mess
+   -0,85 monster
+   -0,85 number

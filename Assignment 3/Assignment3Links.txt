@@ -1,0 +1,65 @@
+======================================================
+Assignment 3.1
+======================================================
+When writing code, use the solution in StartingPoint3 (available on the
+Canvas page for the assignment).
+
+Use the movie-dialog corpus from
+https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus
+
+Note: To obtain data from Kaggle, you have to register. It's free.
+
+======================================================
+Assignment 3.2
+======================================================
+ChatGPT access:
+
+https://openai.com/blog/chatgpt/
+
+(Requires free registration).
+
+Examples (there are many others) of ChatGPT failures:
+
+https://github.com/giuven95/chatgpt-failures
+https://emaggiori.com/chatgpt-fails/
+
+Winograd schemas (optional to use - just a suggestion to give you
+an initial direction...)
+https://en.wikipedia.org/wiki/Winograd_schema_challenge
+https://cs.nyu.edu/~davise/papers/WinogradSchemas/WSCollection.html
+
+======================================================
+Assignment 3.3
+======================================================
+See the slides from 20230215.
+
+======================================================
+Assignment 3.4
+======================================================
+Link to a Python implementation of DNN-based chatbot
+
+https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/chatbot_tutorial.ipynb
+
+You will need the Cornell Movie Dialogue Corpus, but you'll need a different version than
+the one list under Assignment 3.1 - The Python implementation used here (3.4)
+requires that the fields should be separated by the character string " +++$+++ ".
+You can find the corresponding data set here:
+https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus
+
+(Of course, one could instead have modified the Python script in the Colab notebook, but here
+we instead choose the option of downloading the data from the site just mentioned).
+
+From this data set, you need to download the files "movie_lines.txt" and "movie_conversations.txt",
+and place them in a folder called data/cornell movie-dialogs corpus/ in your Colab account.
+To do that, click on the folder icon on the left side of the Colab page. Then you
+can add the necessary folders and finally drag-and-drop the two text files.
+
+Note: There is a bit of a problem with the initial data processing. 
+For some reason, Python is unable to load the lines (from movie_lines.txt)
+with IDs 444102 and 504983, so you need to remove those lines, and also
+remove the use of those IDs from movie_conversations.txt.
+
+The chatbot has an annoying feature, namely that it says "Error: Encountered unknown word"
+if any word in the input sentence is not in the vocabulary. Please change the
+Python code so that it instead just ignores such words in the input sentence.
+

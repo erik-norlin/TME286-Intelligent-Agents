@@ -1,0 +1,6 @@
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\bin\x64\Release\NaturalLanguageProcessing.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\bin\x64\Release\NaturalLanguageProcessing.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\obj\x64\Release\NaturalLanguageProcessing.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\obj\x64\Release\NaturalLanguageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\obj\x64\Release\NaturalLanguageProcessing.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NaturalLanguageProcessing\obj\x64\Release\NaturalLanguageProcessing.pdb

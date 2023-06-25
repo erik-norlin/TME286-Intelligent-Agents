@@ -1,0 +1,11 @@
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Release\NaiveBayesApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Release\NaiveBayesApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\bin\Release\NaiveBayesApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.2\Src\NaiveBayesSolution\NaiveBayesApplication\obj\Release\NaiveBayesApplication.pdb

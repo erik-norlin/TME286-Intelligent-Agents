@@ -1,0 +1,93 @@
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\Src\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csprojAssemblyReference.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Data\Chalmers work\Teaching\Intelligent agents, 2023\Assignments\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csprojAssemblyReference.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Users\TempUser\Downloads\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.AssemblyReference.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.1\NGramsSolution\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.AssemblyReference.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Users\erikn\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.exe.config
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.exe
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NGramsApplication.pdb
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NaturalLanguageProcessing.dll
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\bin\Debug\NaturalLanguageProcessing.pdb
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.AssemblyReference.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.MainForm.resources
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.Properties.Resources.resources
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.GenerateResource.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.CoreCompileInputs.cache
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.csproj.CopyComplete
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.exe
+C:\Users\norliner\OneDrive - Chalmers\Intelligent Agents\Assignment 1\StartingPointAssignment1\Problem1.3\NGramsSolution_problem3\NGramsApplication\obj\Debug\NGramsApplication.pdb

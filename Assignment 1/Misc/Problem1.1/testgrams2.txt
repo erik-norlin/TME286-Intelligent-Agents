@@ -1,0 +1,615 @@
+=========================================
+Written 1-grams: 
+=========================================
+    8694 the
+    5430 in
+    4137 was
+    3438 is
+    2907 of
+    2697 a
+    2284 and
+    2197 he
+    2013 it
+    1884 to
+    1462 on
+    1229 by
+    1056 are
+     950 for
+     841 has
+     834 as
+     784 his
+     766 also
+     753 this
+     742 were
+     729 at
+     722 from
+     688 she
+     612 with
+     495 they
+     481 an
+     428 population
+     391 born
+     391 two
+     385 had
+     366 there
+     335 not
+     331 her
+     311 its
+     301 have
+     296 first
+     286 released
+     274 died
+     269 married
+     266 be
+     251 all
+     241 new
+     241 village
+     234 later
+     224 one
+     223 been
+     215 described
+     214 these
+     211 that
+     209 after
+     207 three
+     204 2010
+     204 may
+     201 i
+     201 their
+     196 school
+     191 played
+     190 no
+     186 into
+     182 became
+     181 located
+     180 won
+     173 however
+     170 year
+     169 university
+     160 both
+     155 known
+     154 film
+     154 only
+     150 august
+     149 several
+     148 about
+     147 other
+     146 found
+     145 american
+     145 can
+     145 july
+     145 then
+     141 services
+     140 children
+     140 january
+     140 received
+     138 some
+     137 name
+     135 began
+     134 many
+     133 used
+     132 september
+     131 or
+     131 time
+     130 college
+     128 june
+     127 species
+     126 him
+     125 april
+     125 november
+     125 up
+     124 opened
+     123 made
+     121 october
+     119 1
+     119 more
+     118 december
+     117 station
+     115 march
+     113 now
+     112 but
+     112 over
+     110 named
+     109 published
+     108 years
+     107 2017
+     106 city
+     106 during
+     105 building
+     105 four
+     103 events
+     102 2012
+     102 john
+     102 people
+     101 series
+     101 until
+     100 started
+      98 2019
+      97 since
+      96 took
+      94 2011
+      94 2013
+      94 each
+      94 moved
+      93 2020
+      93 family
+      92 work
+      90 2
+      90 music
+      89 2018
+      89 joined
+      89 second
+      88 county
+      88 held
+      88 national
+      87 did
+      87 very
+      86 called
+      86 most
+      86 produced
+      86 son
+      86 would
+      85 2002
+      85 album
+      85 number
+      84 2014
+      82 built
+      82 town
+      81 area
+      81 out
+      81 will
+      80 currently
+      80 season
+      79 completed
+      79 february
+      79 team
+      78 lost
+      78 place
+      77 south
+      76 2015
+      76 district
+      76 father
+      75 company
+      75 served
+      75 through
+      74 club
+      74 house
+      74 include
+      74 state
+      74 them
+      74 you
+      73 3
+      73 five
+      73 football
+      73 high
+      73 left
+      73 retired
+      73 than
+      72 2009
+      72 2021
+      72 daughter
+      72 part
+      70 10
+      70 again
+      69 around
+      69 york
+      68 community
+      68 de
+      68 under
+      67 book
+      67 returned
+      67 times
+      66 2007
+      66 2008
+      66 long
+      65 2016
+      65 british
+      65 day
+      65 decision
+      65 graduated
+      65 group
+      65 home
+      65 office
+      64 14
+      64 game
+      64 often
+      63 following
+      63 founded
+      63 inc
+      63 london
+      62 included
+      62 international
+      62 north
+      62 war
+      61 between
+      61 church
+      61 established
+      61 germany
+      61 life
+      61 recorded
+      60 2006
+      60 30
+      60 listed
+      60 park
+      60 show
+      59 11
+      59 12
+      59 15
+      59 career
+      58 26
+      58 another
+      58 available
+      58 english
+      58 public
+      58 six
+      58 white
+      58 william
+      57 reviews
+      57 title
+      57 wife
+      56 current
+      56 eventually
+      56 remained
+      55 4
+      55 army
+      55 major
+      55 never
+      55 service
+      55 still
+      55 total
+      55 works
+      54 2005
+      54 director
+      54 early
+      54 games
+      54 system
+      54 we
+      53 contains
+      53 d.
+      53 includes
+      53 police
+      53 river
+      53 same
+      52 23
+      52 based
+      52 before
+      52 continued
+      52 local
+      52 well
+      51 7
+      51 8
+      51 fight
+      51 final
+      51 via
+      51 when
+      50 16
+      50 2001
+      50 9
+      50 against
+      50 cemetery
+      50 closed
+      50 divided
+      50 given
+      50 seven
+      50 signed
+      50 within
+      49 2003
+      49 6
+      49 attended
+      49 general
+      49 player
+      49 position
+      49 president
+      49 west
+=========================================
+Written 2-grams: 
+=========================================
+     677 it was
+     598 it is
+     580 is a
+     563 he was
+     553 in the
+     435 of the
+     349 was born
+     283 has a
+     263 born in
+     258 is the
+     252 to the
+     231 as of
+     224 the population
+     218 was released
+     207 was a
+     207 population was
+     197 the village
+     184 on the
+     180 population of
+     180 was described
+     176 a population
+     176 from the
+     173 described by
+     164 released on
+     164 he is
+     157 village has
+     151 is located
+     138 there are
+     133 was the
+     131 she was
+     129 as a
+     121 of 2010
+     120 is an
+     118 at the
+     109 for the
+     108 died in
+     107 services to
+     106 is also
+     105 by the
+     105 the film
+     104 for services
+     103 it has
+      98 he also
+      98 the first
+      95 found in
+      92 is found
+      91 the year
+      91 won the
+      84 was also
+      82 has been
+      81 moved to
+      76 this is
+      75 she is
+      74 known as
+      72 is known
+      72 with the
+      72 he played
+      69 they are
+      69 he has
+      67 to be
+      66 in a
+      66 he died
+      66 located at
+      66 there is
+      65 did not
+      65 located in
+      64 new york
+      60 became a
+      60 they were
+      59 on august
+      59 the album
+      59 have been
+      59 the station
+      58 there were
+      58 the series
+      58 opened on
+      57 is now
+      57 is married
+      55 part of
+      54 can be
+      53 he married
+      53 and the
+      53 was completed
+      52 returned to
+      51 had a
+      51 born on
+      51 was an
+      50 the school
+      50 the game
+      49 is in
+      49 played college
+      49 graduated from
+      48 is not
+      48 the town
+      47 they had
+      47 the community
+      47 the fight
+      47 university of
+      46 on january
+      46 also a
+      46 during the
+      46 the following
+      46 they have
+      45 the same
+      45 unanimous decision
+      45 married and
+      45 of 2002
+      45 number of
+      45 on july
+      44 an american
+      44 this was
+      44 joined the
+      44 he won
+      44 published in
+      43 divided into
+      43 released in
+      43 as the
+      43 in january
+      43 are also
+      43 on september
+      42 in september
+      42 one of
+      42 of these
+      41 had two
+      41 died on
+      41 the company
+      41 was in
+      41 has two
+      41 two children
+      41 college football
+      41 football at
+      40 was named
+      39 into the
+      39 the current
+      39 was established
+      39 completed in
+      38 events from
+      38 after the
+      38 have a
+      38 it also
+      37 he had
+      37 named after
+      37 the name
+      37 events in
+      37 with a
+      37 produced by
+      37 on november
+      37 high school
+      36 retired from
+      36 new zealand
+      36 married to
+      36 and has
+      36 in april
+      35 a grade
+      35 listed building
+      35 was built
+      35 the city
+      35 was first
+      35 opened in
+      35 she has
+      35 was not
+      35 in june
+      35 the club
+      34 the new
+      34 endemic to
+      34 was published
+      34 has also
+      34 the show
+      34 on april
+      34 he became
+      34 and two
+      34 died at
+      33 in his
+      33 film was
+      33 in august
+      33 in 2011
+      33 of his
+      33 of a
+      33 his wife
+      33 on 1
+      33 on december
+      32 album was
+      32 was opened
+      32 member of
+      32 the two
+      32 in 2006
+      32 in this
+      32 on june
+      31 is endemic
+      31 the song
+      31 was later
+      31 in 2017
+      31 the building
+      31 was educated
+      31 the second
+      31 the final
+      31 he graduated
+      31 in 2003
+      30 was founded
+      30 up in
+      30 owned by
+      30 in july
+      30 this species
+      30 established in
+      30 in may
+      30 more than
+      30 will be
+      30 in october
+      30 consists of
+      30 he served
+      30 station opened
+      30 on may
+      30 played for
+      29 the nearest
+      29 in 2020
+      29 the next
+      29 he moved
+      29 station is
+      29 does not
+      29 was waived
+      29 his father
+      29 in 2007
+      29 based on
+      29 took place
+      29 however the
+      29 in 2009
+      28 buried in
+      28 the race
+      28 grew up
+      28 is divided
+      28 was married
+      28 he retired
+      28 was produced
+      28 via unanimous
+      28 is currently
+      28 the main
+      28 has an
+      28 was held
+      28 are in
+      27 built in
+      27 there was
+      27 in march
+      27 on october
+      27 on a
+      27 the team
+      27 in 2010
+      26 had been
+      26 school in
+      26 in december
+      26 served as
+      26 appeared in
+      26 waived on
+      26 educated at
+      26 in 2012
+      26 fight via
+      26 as an
+      26 on march
+      26 and a
+      26 the project
+      25 in 2001
+      25 the church
+      25 he joined
+      25 the season
+      25 a few
+      25 in germany
+      25 are the
+      25 in november
+      25 through the
+      25 he made
+      25 as well
+      25 is unknown
+      25 is named
+      25 are not
+      25 she had
+      24 was buried
+      24 the book
+      24 is part
+      24 a new
+      24 in 2015
+      24 in 2014
+      24 also known
+      24 is called
+      24 two daughters
+      24 in 2004
+      24 in new
+      23 the family
+      23 united states
+      23 his brother
+      23 under the
+      23 now a
+      23 the war
+      23 in 1997
+      23 directed by
+      23 from critics
+      23 she married
+      23 a village
+      23 village in
+      23 composed by
+      23 the area
+      22 known from
+=========================================
+Spoken 2-grams: 
+=========================================
+=========================================
+Written 3-grams: 
+=========================================
+=========================================
+Spoken 3-grams: 
+=========================================
